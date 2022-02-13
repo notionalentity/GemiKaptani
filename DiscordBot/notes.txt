@@ -1,5 +1,5 @@
 Bu Bot, Discord platformu için programlanmıştır.
 
-"Ad", sunucu içerisindeki işleri daha kolay bir şekilde yapılabilmesi için geliştirilmektedir.
+"Gemi Kaptanı", sunucu içerisindeki işleri daha kolay bir şekilde yapılabilmesi için geliştirilmektedir.
 
 -Neotick's Team-

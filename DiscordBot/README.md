@@ -1,11 +1,4 @@
-A Simple Discord Bot For Making Daily Jobs on the Discord Server.
+🤖Discord Botu🤖
 
-Note: Anime Recommendator is not our.
-And some commands is turkish and english *strange*
-
-TR:
-
-Discord sunucularında günlük işleri yapabilen bir bot.
-
-Not: Anime Önericisi'nin Kodları bize ait değil.
-Ve bazı komutlar ingilizce ve türkçe ile karışık.
+Temel işleri yapabilen basit bir python programı.
+Not: Kendiniz kullanmak isterseniz eğer, token kısmını eklemeyi unutmayın.

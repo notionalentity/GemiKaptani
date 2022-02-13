@@ -43,17 +43,17 @@ async def oyun(ctx, *args):
     if "roll" in args:
         await ctx.send(game.roll_dice())
     else:
-        await ctx.send("please select a game")
+        await ctx.send("Lütfen bir oyun seçin.")
 @bot.command()
-@commands.has_role("mod")
+@commands.has_role("ekip")
 async def temizle(ctx, amount=15):
     await ctx.channel.purge(limit=amount)
 @bot.command()
-@commands.has_role("mod")
+@commands.has_role("ekip")
 async def kick(ctx, member:discord.Member, *args, reason="Yok"):
     await member.kick(reason=reason)
 @bot.command()
-@commands.has_role("mod")
+@commands.has_role("ekip")
 async def ban(ctx, member:discord.Member, *args, reason="Yok"):
     await member.ban(reason=reason)
 
